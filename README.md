@@ -177,7 +177,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] ERC1155 Token
 - [x] Chainlink Keepers and VRF
 - [x] Liquibet contract
-- [ ] Frontend
+- [x] Frontend
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -214,7 +214,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Team
 
-Morgan Weaver, Stjepan Horvat, Solene Daviaud, Thomas Gehrmann
+Morgan Weaver, Stjepan Hrvoje Horvat, Solene Daviaud, Thomas Gehrmann
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
